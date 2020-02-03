@@ -1,8 +1,7 @@
 # Pavilion
 ### Social Platform for Spontaneous Hangouts
-![alt text](https://github.com/victoria-lo/Pavilion/blob/master/Presentation%20Materials/Pavillion.png?raw=true)
+![alt text](https://github.com/victoria-lo/Pavilion/blob/master/Presentation%20Materials/Pavillion_nav.png?raw=true)
 
-----
 ## About
 
 As the world advances in technology, our society finds itself slowly lacking the human-to-human interactions that fulfills our need for belongingness. Without that need fulfilled, our society enters the age of loneliness, which is an emotional state that may lead to many mental health issues. 
